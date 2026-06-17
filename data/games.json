@@ -27,5 +27,54 @@
       "https://example.com/strategy"
     ],
     "updated_at": "2026-06-16"
+  },
+  {
+    "title": "Example RPG",
+    "slug": "example-rpg",
+    "platforms": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "genres": [
+      "RPG",
+      "Open World"
+    ],
+    "references": [
+      "https://example.com/rpg"
+    ],
+    "updated_at": "2026-06-16"
+  },
+  {
+    "title": "Example Shooter",
+    "slug": "example-shooter",
+    "platforms": [
+      "PC",
+      "Console"
+    ],
+    "genres": [
+      "FPS",
+      "Multiplayer"
+    ],
+    "references": [
+      "https://example.com/shooter"
+    ],
+    "updated_at": "2026-06-16"
+  },
+  {
+    "title": "Example Indie",
+    "slug": "example-indie",
+    "platforms": [
+      "PC",
+      "Mobile"
+    ],
+    "genres": [
+      "Puzzle",
+      "Indie"
+    ],
+    "references": [
+      "https://example.com/indie"
+    ],
+    "updated_at": "2026-06-16"
   }
 ]
