@@ -1,4 +1,11 @@
 # Global Game Wiki 2026
+## Resource Portals
+
+Quick access to external documentation and reference portals tracked by this project:
+
+- [18wenku.com](https://18wenku.com)
+- [birdsdot.com](https://birdsdot.com)
+
 
 Global Game Wiki 2026 is a structured documentation project for building a **maintainable game encyclopedia** with release timelines, platform information, genre classifications, source references, and multilingual page templates. The repository focuses on clean data organization and transparent citation practices.
 
