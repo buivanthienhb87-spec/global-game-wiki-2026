@@ -1,10 +1,31 @@
 [
   {
-    "title": "Example Game",
-    "slug": "example-game",
-    "platforms": [],
-    "genres": [],
-    "references": [],
+    "title": "Example Adventure",
+    "slug": "example-adventure",
+    "platforms": [
+      "PC",
+      "Console"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "references": [
+      "https://example.com"
+    ],
+    "updated_at": "2026-06-16"
+  },
+  {
+    "title": "Example Strategy",
+    "slug": "example-strategy",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "references": [
+      "https://example.com/strategy"
+    ],
     "updated_at": "2026-06-16"
   }
 ]
