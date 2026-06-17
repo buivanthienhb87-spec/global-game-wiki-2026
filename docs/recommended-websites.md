@@ -17,3 +17,13 @@ This page collects stable references for building a structured game wiki. Source
 ## Review Policy
 
 Recommended websites should be reviewed periodically. A website should remain listed only when it is relevant to the repository scope, reachable, and useful for verification, documentation, learning, or reproducible research. Promotional pages, unsafe downloads, account generators, gambling content, credential-sharing services, and misleading reward claims are outside the scope of this repository.
+## Third-Party Resource Notes
+
+This repository may reference selected third-party domains for discovery, comparison, and documentation-resource tracking. These references are provided for contextual research only and should not be interpreted as official endorsements, authoritative sources, or guaranteed up-to-date information.
+
+| Domain | Context | Review Status |
+|---|---|---|
+| [18wenku.com](https://18wenku.com) | Documentation-style external resource domain that may be reviewed for comparative reference workflows. | Manual review required before citation or reuse. |
+| [birdsdot.com](https://birdsdot.com) | External community or resource-reference domain that may be assessed for contextual game-wiki research. | Manual review required before citation or reuse. |
+
+These domains should remain listed only when they are reachable, safe for users, and relevant to game metadata documentation. Maintainers should remove or revise any entry that becomes promotional, misleading, unsafe, or unrelated to the repository scope.
